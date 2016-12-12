@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="search">Search</string>
+    <string name="add">add</string>
+    <string name="register">register</string>
+    <string name="unregister">unregister</string>
+    <string name="bindmsg">bindmsg</string>
+    <string name="sendmsg">sendmsg</string>
+    <string name="startactivity">startActivity</string>
+    <string name="query">query</string>
+    <string name="addvalues">addValues</string>
+    <string name="book_table">book table?</string>
+    <string name="move">move</string>
+    <string name="i_dont_move">I dont move</string>
+</resources>
